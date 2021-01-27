@@ -96,6 +96,10 @@ button {
   }
 }
 
+.lock {
+  overflow: hidden;
+}
+
 .menu__list {
   display: flex;
 }
